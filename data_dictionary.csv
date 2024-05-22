@@ -1,0 +1,49 @@
+For Swiss lakes (Diol_swiss.csv);;;							
+							
+;;;							
+							
+variable;variable_id;unit;comments							
+							
+Lake name;Lake;;							
+							
+Latitude;Lat;decimal degree;							
+							
+Longitude;Long;decimal degree;							
+							
+Maximal depth;Depth;m;							
+							
+Area;Area;km2;							
+							
+Stratification;Stratification;;yes = stratified lake	 no = mixed lake						
+							
+Elevation;Elevation;m;							
+							
+Geology of the catchment;Geology;;sed = sedimentary	 cryst = crystalline	 deduced from the Swiss geological map provided by SwissTopo and the Georesources Switzerland Group (map.geo.admin.ch)					
+							
+Conductivity;Conductivity;µS/cm;At 25°C. Data for the surface waters (0-15 m) from long-term monitoring projects conducted by the environmental agencies of Swiss cantons and by Eawag (www.datalakes-eawag.ch)	 and from the Naïade database (naiades.eaufrance.fr) for Lac des Rousses	 the Bodensee-Wasserinformationssystem (BOWIS) database for lake Constance	 the International Commission for the Protection of Italian-Swiss Waters (CIPAIS	 www.cipais.org) for lake Lugano	 Müller et al. (1998) for Lakes Fälen	 Iffig and Trüb	 and from Steingruber and Colombo (2010) for Lake Mognola. Values are a mean of the 10 years preceding the coring when data was available.
+							
+Salinity;Salinity;g/L;Calculated from the conductivity							
+							
+O2;O2;mg/L;Data for the surface waters (0-15 m) from long-term monitoring projects conducted by the environmental agencies of Swiss cantons and by Eawag (www.datalakes-eawag.ch)	 and from the Naïade database (naiades.eaufrance.fr) for Lac des Rousses	 the Bodensee-Wasserinformationssystem (BOWIS) database for lake Constance	 the International Commission for the Protection of Italian-Swiss Waters (CIPAIS	 www.cipais.org) for lake Lugano	 Müller et al. (1998) for Lakes Fälen	 Iffig and Trüb	 and from Steingruber and Colombo (2010) for Lake Mognola. Values are a mean of the 10 years preceding the coring when data was available.
+							
+pH;pH;pH unit;Data for the surface waters (0-15 m) from long-term monitoring projects conducted by the environmental agencies of Swiss cantons and by Eawag (www.datalakes-eawag.ch)	 and from the Naïade database (naiades.eaufrance.fr) for Lac des Rousses	 the Bodensee-Wasserinformationssystem (BOWIS) database for lake Constance	 the International Commission for the Protection of Italian-Swiss Waters (CIPAIS	 www.cipais.org) for lake Lugano	 Müller et al. (1998) for Lakes Fälen	 Iffig and Trüb	 and from Steingruber and Colombo (2010) for Lake Mognola. Values are a mean of the 10 years preceding the coring when data was available.
+							
+Total phosphorus ;TP;mg/L;Data for the surface waters (0-15 m) from long-term monitoring projects conducted by the environmental agencies of Swiss cantons and by Eawag (www.datalakes-eawag.ch)	 and from the Naïade database (naiades.eaufrance.fr) for Lac des Rousses	 the Bodensee-Wasserinformationssystem (BOWIS) database for lake Constance	 the International Commission for the Protection of Italian-Swiss Waters (CIPAIS	 www.cipais.org) for lake Lugano	 Müller et al. (1998) for Lakes Fälen	 Iffig and Trüb	 and from Steingruber and Colombo (2010) for Lake Mognola. Values are a mean of the 10 years preceding the coring when data was available.
+							
+Total nitrogen;TN;mg/L;Data for the surface waters (0-15 m) from long-term monitoring projects conducted by the environmental agencies of Swiss cantons and by Eawag (www.datalakes-eawag.ch)	 and from the Naïade database (naiades.eaufrance.fr) for Lac des Rousses	 the Bodensee-Wasserinformationssystem (BOWIS) database for lake Constance	 the International Commission for the Protection of Italian-Swiss Waters (CIPAIS	 www.cipais.org) for lake Lugano	 Müller et al. (1998) for Lakes Fälen	 Iffig and Trüb	 and from Steingruber and Colombo (2010) for Lake Mognola. Values are a mean of the 10 years preceding the coring when data was available.
+							
+Sulfate concentration;SO4;mg/L;Data for the surface waters (0-15 m) from long-term monitoring projects conducted by the environmental agencies of Swiss cantons and by Eawag (www.datalakes-eawag.ch)	 and from the Naïade database (naiades.eaufrance.fr) for Lac des Rousses	 the Bodensee-Wasserinformationssystem (BOWIS) database for lake Constance	 the International Commission for the Protection of Italian-Swiss Waters (CIPAIS	 www.cipais.org) for lake Lugano	 Müller et al. (1998) for Lakes Fälen	 Iffig and Trüb	 and from Steingruber and Colombo (2010) for Lake Mognola. Values are a mean of the 10 years preceding the coring when data was available.
+							
+Chloride concentration;Cl;mg/L;Data for the surface waters (0-15 m) from long-term monitoring projects conducted by the environmental agencies of Swiss cantons and by Eawag (www.datalakes-eawag.ch)	 and from the Naïade database (naiades.eaufrance.fr) for Lac des Rousses	 the Bodensee-Wasserinformationssystem (BOWIS) database for lake Constance	 the International Commission for the Protection of Italian-Swiss Waters (CIPAIS	 www.cipais.org) for lake Lugano	 Müller et al. (1998) for Lakes Fälen	 Iffig and Trüb	 and from Steingruber and Colombo (2010) for Lake Mognola. Values are a mean of the 10 years preceding the coring when data was available.
+							
+Sodium concentration;Na;mg/L;Data for the surface waters (0-15 m) from long-term monitoring projects conducted by the environmental agencies of Swiss cantons and by Eawag (www.datalakes-eawag.ch)	 and from the Naïade database (naiades.eaufrance.fr) for Lac des Rousses	 the Bodensee-Wasserinformationssystem (BOWIS) database for lake Constance	 the International Commission for the Protection of Italian-Swiss Waters (CIPAIS	 www.cipais.org) for lake Lugano	 Müller et al. (1998) for Lakes Fälen	 Iffig and Trüb	 and from Steingruber and Colombo (2010) for Lake Mognola. Values are a mean of the 10 years preceding the coring when data was available.
+							
+Potassium concentration;K;mg/L;Data for the surface waters (0-15 m) from long-term monitoring projects conducted by the environmental agencies of Swiss cantons and by Eawag (www.datalakes-eawag.ch)	 and from the Naïade database (naiades.eaufrance.fr) for Lac des Rousses	 the Bodensee-Wasserinformationssystem (BOWIS) database for lake Constance	 the International Commission for the Protection of Italian-Swiss Waters (CIPAIS	 www.cipais.org) for lake Lugano	 Müller et al. (1998) for Lakes Fälen	 Iffig and Trüb	 and from Steingruber and Colombo (2010) for Lake Mognola. Values are a mean of the 10 years preceding the coring when data was available.
+							
+Calcium concentration;Ca;mg/L;Data for the surface waters (0-15 m) from long-term monitoring projects conducted by the environmental agencies of Swiss cantons and by Eawag (www.datalakes-eawag.ch)	 and from the Naïade database (naiades.eaufrance.fr) for Lac des Rousses	 the Bodensee-Wasserinformationssystem (BOWIS) database for lake Constance	 the International Commission for the Protection of Italian-Swiss Waters (CIPAIS	 www.cipais.org) for lake Lugano	 Müller et al. (1998) for Lakes Fälen	 Iffig and Trüb	 and from Steingruber and Colombo (2010) for Lake Mognola. Values are a mean of the 10 years preceding the coring when data was available.
+							
+Magnesium concentration;Mg;mg/L;Data for the surface waters (0-15 m) from long-term monitoring projects conducted by the environmental agencies of Swiss cantons and by Eawag (www.datalakes-eawag.ch)	 and from the Naïade database (naiades.eaufrance.fr) for Lac des Rousses	 the Bodensee-Wasserinformationssystem (BOWIS) database for lake Constance	 the International Commission for the Protection of Italian-Swiss Waters (CIPAIS	 www.cipais.org) for lake Lugano	 Müller et al. (1998) for Lakes Fälen	 Iffig and Trüb	 and from Steingruber and Colombo (2010) for Lake Mognola. Values are a mean of the 10 years preceding the coring when data was available.
+							
+Mean annual air temperature;MAAT;°C;Data for the surface waters (0-15 m) from long-term monitoring projects conducted by the environmental agencies of Swiss cantons and by Eawag (www.datalakes-eawag.ch)	 and from the Naïade database (naiades.eaufrance.fr) for Lac des Rousses	 the Bodensee-Wasserinformationssystem (BOWIS) database for lake Constance	 the International Commission for the Protection of Italian-Swiss Waters (CIPAIS	 www.cipais.org) for lake Lugano	 Müller et al. (1998) for Lakes Fälen	 Iffig and Trüb	 and from Steingruber and Colombo (2010) for Lake Mognola. Values are a mean of the 10 years preceding the coring when data was available.
+							
+Diol;Diol;;Y = Diols present	N = Diol absent						
